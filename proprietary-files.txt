@@ -23,7 +23,6 @@ vendor/lib/libflash_aw3643_rear.so
 vendor/lib/libflash_aw3643_front.so
 vendor/lib/libflash_pmic.so
 vendor/lib/libgralloc1.so
-vendor/lib/libgui_vendor.so|2289516454cceae50bb3963f9255bc113a24b508
 vendor/lib/libjpegdhw.so
 vendor/lib/libjpegdmahw.so
 vendor/lib/libjpegehw.so
@@ -434,6 +433,9 @@ vendor/lib64/com.fingerprints.extension@1.0_vendor.so
 # Gatekeeper
 vendor/lib/hw/gatekeeper.sdm660.so
 vendor/lib64/hw/gatekeeper.sdm660.so
+
+# IMS
+-priv-app/ims/ims.apk|d6e133dcd005202792e673f3439134a4f8b3b8ed
 
 # Keystore
 vendor/lib/hw/keystore.sdm660.so
